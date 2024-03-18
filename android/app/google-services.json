@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "169630386332",
+    "project_id": "whiski-maintenance-59477",
+    "storage_bucket": "whiski-maintenance-59477.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169630386332:android:c64c8ff9ebcefb000ec559",
+        "android_client_info": {
+          "package_name": "com.example.whiski_maintenance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCJoa_EXpJVMNeqyeM0X9n_aYWun5Ppxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
